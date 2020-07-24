@@ -119,8 +119,7 @@ aside {
     text-align: center;
 }
 
-/* Nested styling for cleaner code */
-#benefit-lead img, #benefit-brand img, #benefit-cost img {
+.aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
