@@ -6,6 +6,7 @@ This repository holds the first homework assignment for [The Coding Boot Camp](h
 
 This assignment is a project in code refactoring. In case this is new to you as it is to me, I looked up a definition of what code refactoring is and here is what I found from [refactoring.com](https://refactoring.com/#:~:text=Refactoring%20is%20a%20disciplined%20technique,of%20small%20behavior%20preserving%20transformations.);
 > "Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."
+
 This simple definition is an exact representation of what this homework assignment is all about.
 
 For this project we were given an existing html file, css file, and images and then tasked with refactoring the existing code. There were multiple steps involved in completing this project that included:
