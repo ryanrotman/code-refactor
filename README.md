@@ -21,18 +21,18 @@ For this project we were given an existing html file, css file, and images and t
 In completing this project, here are some samples of the refactoring that I did.
 
 * Corrected links within the header so the page would jump to the corresponding content section
-> ![ScreenShot_LinkCorrection](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_LinkCorrection.png?raw=true)
+  > ![ScreenShot_LinkCorrection](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_LinkCorrection.png?raw=true)
 
 * Added comments to each major section in the codebase
-> ![ScreenShot_AddingComments](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_AddingComments.png?raw=true)
+  > ![ScreenShot_AddingComments](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_AddingComments.png?raw=true)
 
 * Adjusted the values of the ID and class attributes to make them different which allowed for cleaner code in the stylesheet.
-> ![ScreenShot_ID_Class_Adjustments](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_ID_Class_Adjustments.png?raw=true)
+  > ![ScreenShot_ID_Class_Adjustments](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_ID_Class_Adjustments.png?raw=true)
 
 * Deleted IDs that weren't needed in the code
-> ![ScreenShot_ID_Deletions](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_ID_Deletions.png?raw=true)
+  > ![ScreenShot_ID_Deletions](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_ID_Deletions.png?raw=true)
 
 * Due to adjusting ID and class headings, css styling was able to be consolidated in the stylesheet.
-> ![ScreenShot_StylingConsolidation_1](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_StylingConsolidation_1.png?raw=true)
-> ![ScreenShot_StylingConsolidation_2](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_StylingConsolidation_2.png?raw=true)
+  > ![ScreenShot_StylingConsolidation_1](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_StylingConsolidation_1.png?raw=true)
+  > ![ScreenShot_StylingConsolidation_2](https://github.com/ryanrotman/homework-1-code-refactor/blob/master/assets/readme-screenshots/ScreenShot_StylingConsolidation_2.png?raw=true)
 
