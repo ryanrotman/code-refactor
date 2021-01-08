@@ -2,9 +2,9 @@
 
 ## Description
 
-This repository holds the first homework assignment for [The Coding Boot Camp](https://techbootcamps.utexas.edu/coding/) through the University of Texas at Austin's Center for Professional Education.
+<!-- This repository holds the first homework assignment for [The Coding Boot Camp](https://techbootcamps.utexas.edu/coding/) through the University of Texas at Austin's Center for Professional Education. -->
 
-This assignment is a project in code refactoring. In case this is new to you as it is to me, I looked up a definition of what code refactoring is and here is what I found from [refactoring.com](https://refactoring.com/#:~:text=Refactoring%20is%20a%20disciplined%20technique,of%20small%20behavior%20preserving%20transformations.);
+The scope of the code in this repo is to handle code refactoring. In case this is new to you as it is to me, I looked up a definition of what code refactoring is and here is what I found from [refactoring.com](https://refactoring.com/#:~:text=Refactoring%20is%20a%20disciplined%20technique,of%20small%20behavior%20preserving%20transformations.);
 > "Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior."
 
 This simple definition is an exact representation of what this homework assignment is all about.
@@ -39,4 +39,4 @@ In completing this project, here are some samples of the refactoring that I did.
 
 ## Link
 
-Github Pages Link: [https://ryanrotman.github.io/homework-1-code-refactor/](https://ryanrotman.github.io/homework-1-code-refactor/)
+Github Pages Link: [https://ryanrotman.github.io/code-refactor/](https://ryanrotman.github.io/code-refactor/)
